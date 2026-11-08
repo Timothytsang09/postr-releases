@@ -1,0 +1,2 @@
+# postr-releases
+Postr installers
